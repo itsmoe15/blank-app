@@ -1,0 +1,14 @@
+title,problem level,problem difficulty,contestId,index,tags
+Young Physicist,N/A,1000,69,A,"implementation,math"
+Beautiful Matrix,N/A,800,263,A,implementation
+Queue at the School,N/A,800,266,B,"constructive algorithms,graph matchings,implementation,shortest paths"
+Borze,N/A,800,32,B,"expression parsing,implementation"
+Lights Out,N/A,900,275,A,implementation
+Word,N/A,800,59,A,"implementation,strings"
+Word Capitalization,N/A,800,281,A,"implementation,strings"
+Two Sum,Easy,800,1,A
+Sum of Digits,Medium,1200,2,B
+Array Operations,Hard,1600,3,C
+Graph Paths,Medium,1400,4,D
+Binary Search Tree,Easy,900,5,E
+Dynamic Programming,Hard,1800,6,F
