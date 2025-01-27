@@ -1,14 +1,51 @@
 title,problem level,problem difficulty,contestId,index,tags
-Young Physicist,N/A,1000,69,A,"implementation,math"
-Beautiful Matrix,N/A,800,263,A,implementation
-Queue at the School,N/A,800,266,B,"constructive algorithms,graph matchings,implementation,shortest paths"
-Borze,N/A,800,32,B,"expression parsing,implementation"
-Lights Out,N/A,900,275,A,implementation
-Word,N/A,800,59,A,"implementation,strings"
-Word Capitalization,N/A,800,281,A,"implementation,strings"
-Two Sum,Easy,800,1,A
-Sum of Digits,Medium,1200,2,B
-Array Operations,Hard,1600,3,C
-Graph Paths,Medium,1400,4,D
-Binary Search Tree,Easy,900,5,E
-Dynamic Programming,Hard,1800,6,F
+Move Brackets,N/A,1000,1374,C,"greedy,strings"
+Board Moves,N/A,1000,1353,C,math
+Two Shuffled Sequences,N/A,1000,1144,C,"constructive algorithms,sortings"
+Lucky Numbers,N/A,1100,630,C,"combinatorics,math"
+Similar Pairs,N/A,1100,1360,C,"constructive algorithms,graph matchings,greedy,sortings"
+Two Teams Composing,N/A,1100,1335,C,"binary search,greedy,implementation,sortings"
+Frog Jumps,N/A,1100,1324,C,"binary search,data structures,dfs and similar,greedy,implementation"
+Increasing Matrix,N/A,1100,1231,C,greedy
+Songs Compression,N/A,1100,1015,C,sortings
+Boats Competition,N/A,1200,1399,C,"brute force,greedy,two pointers"
+Omkar and Waterslide,N/A,1200,1392,C,"greedy,implementation"
+Make It Good,N/A,1200,1385,C,greedy
+K-th Not Divisible by n,N/A,1200,1352,C,"binary search,math"
+Alternating Subsequence,N/A,1200,1343,C,"dp,greedy,two pointers"
+Ternary XOR,N/A,1200,1328,C,"greedy,implementation"
+Restoring Permutation,N/A,1200,1315,C,greedy
+Yet Another Broken Keyboard,N/A,1200,1272,C,"combinatorics,dp,implementation"
+Dominated Subarray,N/A,1200,1257,C,"greedy,implementation,sortings,strings,two pointers"
+Perfect Team,N/A,1200,1221,C,"binary search,math"
+Bad Sequence,N/A,1200,1214,C,"data structures,greedy"
+Book Reading,N/A,1200,1213,C,math
+Balanced Team,N/A,1200,1133,C,"sortings,two pointers"
+Birthday,N/A,1200,1131,C,"binary search,greedy,sortings"
+Doors Breaking and Repairing,N/A,1200,1102,C,games
+NN and the Optical Illusion,N/A,1200,1100,C,"binary search,geometry,math"
+Postcard,N/A,1200,1099,C,"constructive algorithms,implementation"
+Bracket Subsequence,N/A,1200,1023,C,greedy
+Three Parts of the Array,N/A,1200,1006,C,"binary search,data structures,two pointers"
+Seat Arrangements,N/A,1300,919,C,"brute force,implementation"
+Dividing the numbers,N/A,1300,899,C,"constructive algorithms,graphs,math"
+Servers,N/A,1300,747,C,implementation
+Cinema,N/A,1300,670,C,"implementation,sortings"
+K-special Tables,N/A,1300,625,C,"constructive algorithms,implementation"
+A and B and Team Training,N/A,1300,519,C,"greedy,implementation,math,number theory"
+Mere Array,N/A,1300,1401,C,"constructive algorithms,math,number theory,sortings"
+Social Distance,N/A,1300,1367,C,"constructive algorithms,greedy,math"
+Permutation Partitions,N/A,1300,1326,C,"combinatorics,greedy,math"
+Perform the Combo,N/A,1300,1311,C,brute force
+Shawarma Tent,N/A,1300,1271,C,"brute force,geometry,greedy,implementation"
+From S To T,N/A,1300,1194,C,"implementation,strings"
+Create The Teams,N/A,1400,1380,C,"brute force,dp,greedy,implementation,sortings"
+Element Extermination,N/A,1400,1375,C,"constructive algorithms,data structures,greedy"
+Number Game,N/A,1400,1370,C,"games,math,number theory"
+Adding Powers,N/A,1400,1312,C,"bitmasks,greedy,implementation,math,number theory,ternary search"
+Make Good,N/A,1400,1270,C,"bitmasks,constructive algorithms,math"
+Binary String Reconstruction,N/A,1500,1400,C,"2-sat,brute force,constructive algorithms,greedy"
+Cyclic Permutations ,N/A,1500,1391,C,"combinatorics,dp,graphs,math"
+Good String,N/A,1500,1389,C,"brute force,dp,greedy,two pointers"
+Omkar and Baseball,N/A,1500,1372,C,"constructive algorithms,math"
+Palindromic Paths,N/A,1500,1366,C,"greedy,math"
